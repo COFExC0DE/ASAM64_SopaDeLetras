@@ -1,0 +1,1 @@
+[pais] costarica estadosunidos polonia ecuador colombia china panama guatemala mexico [animales] caballos perros pajaros chanchos ratones pescados vacas jirafas [frutas] papaya manzana mangos kiwis banano pina [verduras] apio lechuga coliflor culantro zanahoria cebolla [nombres] josepablo melissa antonio christina michael juancarlos pepe [carros] jeep toyota tesla ford fiat
